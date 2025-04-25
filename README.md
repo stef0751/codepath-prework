@@ -13,11 +13,15 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/22cb18584d444773a60128e08c1f3a09">
+    </a>
+    <a href="https://www.loom.com/share/22cb18584d444773a60128e08c1f3a09">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/22cb18584d444773a60128e08c1f3a09-58acd5018c36c62f-full-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 1. Spotify: top songs listened, Spotify wrapped, downloading songs
