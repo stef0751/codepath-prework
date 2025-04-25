@@ -20,6 +20,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Spotify: top songs listened, Spotify wrapped, downloading songs
+2. Pinterest: UI, inspo board ideas
+3. Instagram: stories, messaging feature, for you page, story creation 
+
+An app idea that I would like to build is a digital time capsule app. It basically allows users to build their own digital time capsule, lock it, and it would open at a specific time and day that they set it to, whether that be days from now or years. You can also send these time capsules to others, share them, or collaborate one to make together. It is basically a bundle of your favorite memories, songs, notes, and pictures that you might want to store to commemorate a special day that you want to revisit years from now. 
 
 ## Notes
 
