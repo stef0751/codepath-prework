@@ -24,6 +24,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had some trouble launching the app, but one I found the button, I was able to launch it successfully. 
 
 ## License
 
